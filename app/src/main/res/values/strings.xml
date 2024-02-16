@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todoapp</string>
+    <string name="enter_a_todo_name">Enter a Todo Name</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="delete_done">Delete Done</string>
+    <string name="example">Example</string>
+</resources>
